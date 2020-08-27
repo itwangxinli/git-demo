@@ -1,1 +1,3 @@
 add newfeature2
+
+fix bug
